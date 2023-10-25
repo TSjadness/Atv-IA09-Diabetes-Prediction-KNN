@@ -1,2 +1,2 @@
-# Atv-IA09-Diabetes-Prediction-KNN
+# Atv-IA-Diabetes-Prediction-KNN
 Exercício sobre KNN / RNA / COLAB da disciplina de inteligência artificial.
